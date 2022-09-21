@@ -17,7 +17,6 @@ class Solution {
             answer+=i;
             count++;
         }
-        
         answer=answer/count;
         
         return answer;
